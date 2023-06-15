@@ -1,1 +1,2 @@
 Faccio qualche modifica a questo file per provare ancora il comando git push
+Nuove modifiche per provare il comando git pull in locale
